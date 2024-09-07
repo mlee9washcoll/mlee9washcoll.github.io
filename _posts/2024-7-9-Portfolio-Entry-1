@@ -1,0 +1,22 @@
+---
+layout: post
+title: Portfolio Entry #1
+---
+
+**Introduction**
+
+Companies such as Google and Facebook are well known for collecting a user's personal data. To find out the data these companies, specifically Google, have on me, I used Google Takeout. Before I received the data, I expected my online activity, such as my social media activity, what I watch on TV, and the websites I interact with to be recorded. I also assumed my location history would be recorded since I use Google Maps regularly. 
+
+---
+
+**The Data I Received**
+
+When I received my data, I was not surprised to find that my website history, social media history, location, and TV shows were all recorded. There was a lot of data I received that I did not expect, however. For example, my email history, mainly who I was emailing, was also recorded. Another surprising data set was a folder specifically for hotels and flights I researched in the past. 
+
+The data that I received was very comprehensive. According to Google, Google Takeout sent me all the data that was stored on my Google Drive. I have also found that the data set did not include any of my personal information. My birthday, full legal name, and anything related to my bank account were some of the things I could not find in the Takeout document. Through this, it would appear that Google Takeout only withholds personal information that could put the user in danger. 
+
+---
+
+**Research Question
+
+Both the European Union and the United States have laws to regulate how companies both get and use data. However, there are differences in the laws. The first difference is the jurisdiction of the laws. The GBPR applies to any company that processes a user's data. In the United States, there is no comprehensive privacy laws like the GDPR. The GDPR also applies to all companies regardless of where the company is based (meaning EU citizens are protected from companies outside the EU) while the United States only has laws regulating companies within the country. The GDPR also requires companies to gain explicit consent from a user with a clear, affirmitive action. In the United States, some states such as California, have similar laws, but most companies are not legally required to explicitely ask for consent. The GDPR also gives users more rights, such as the right to erase data and restrict processing while many US laws do not give users these rights. Lastly, the GDPR requires companies to have a Data Protection Officer, further differing from the United States privacy laws. 
